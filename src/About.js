@@ -7,7 +7,7 @@ const About = () => {
             <h1 className="text-center">About Me</h1>
             <div className="row mt-4">
                 <div className="col-lg-4">
-                    <img src={require('./images/about.jpeg')} className="imageAboutPage" alt=""/>
+                    <img src={require('./images/IMG_5865.JPG')} className="imageAboutPage" alt=""/>
                 </div>
 
                 <div className="col-lg-8">
@@ -17,9 +17,9 @@ const About = () => {
                     <div className="row mt-3">
                         <div className="col-md-6">
                             <ul>
-                                <li>Name: Bishworaj</li>
-                                <li>Age: 24</li>
-                                <li>Occupation: Developer and Creator</li>
+                                <li>Name: Sudip</li>
+                                <li>Age: 28</li>
+                                <li>Occupation: SoftWare Developer</li>
 
                             </ul>
                         </div>
