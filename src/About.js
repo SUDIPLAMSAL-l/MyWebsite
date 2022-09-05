@@ -7,7 +7,7 @@ const About = () => {
             <h1 className="text-center">About Me</h1>
             <div className="row mt-4">
                 <div className="col-lg-4">
-                    <img src={require('./images/IMG_5865.JPG')} className="imageAboutPage" alt=""/>
+                    <img src={require('./images/About_sudip.JPG')} className="imageAboutPage" alt=""/>
                 </div>
 
                 <div className="col-lg-8">
@@ -25,7 +25,7 @@ const About = () => {
                         </div>
                         <div className="col-md-6">
                             <ul>
-                                <li>Phone: 07021919397</li>
+                                <li>Phone: 070-2191-9397</li>
                                 <li>Email: Lamsal.sudip999@gmail.com</li>
                                 <li>Address: Japan</li>
                             </ul>
