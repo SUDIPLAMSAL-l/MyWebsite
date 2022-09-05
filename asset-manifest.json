@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyWebsite/static/css/main.1d77c311.css",
-    "main.js": "/MyWebsite/static/js/main.796cc728.js",
-    "static/media/IMG_5866.JPG": "/MyWebsite/static/media/IMG_5866.59b528761108563517f0.JPG",
-    "static/media/IMG_5865.JPG": "/MyWebsite/static/media/IMG_5865.aa3af04909d00cc6d363.JPG",
+    "main.css": "/MyWebsite/static/css/main.5ed02543.css",
+    "main.js": "/MyWebsite/static/js/main.c05a775c.js",
+    "static/media/Sudip_banner.JPG": "/MyWebsite/static/media/Sudip_banner.59b528761108563517f0.JPG",
+    "static/media/About_sudip.JPG": "/MyWebsite/static/media/About_sudip.aa3af04909d00cc6d363.JPG",
     "index.html": "/MyWebsite/index.html",
-    "main.1d77c311.css.map": "/MyWebsite/static/css/main.1d77c311.css.map",
-    "main.796cc728.js.map": "/MyWebsite/static/js/main.796cc728.js.map"
+    "main.5ed02543.css.map": "/MyWebsite/static/css/main.5ed02543.css.map",
+    "main.c05a775c.js.map": "/MyWebsite/static/js/main.c05a775c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d77c311.css",
-    "static/js/main.796cc728.js"
+    "static/css/main.5ed02543.css",
+    "static/js/main.c05a775c.js"
   ]
 }
